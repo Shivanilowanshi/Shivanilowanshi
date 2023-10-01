@@ -1,20 +1,13 @@
 ### Hi ther 👋
 
-<!--
-**Shivanilowanshi/Shivanilowanshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 👋 Hi, I’m *Shivani Lowanshi**
 - 🔭 I’m currently working on ...Web Based Technology
 - 🌱 I’m currently learning ...Agile Methodology
 - 👯 I’m looking to collaborate on ...Web Devlopment
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
 ### Languages and Tools 🛠 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
